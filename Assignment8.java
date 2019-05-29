@@ -1,4 +1,4 @@
-class ArrayIntList
+public class ArrayIntList
 {
   private int[] elementData; //list of integers 
 	private int size; //number of elements in the list 
