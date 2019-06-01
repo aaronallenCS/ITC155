@@ -4,7 +4,7 @@ public class Assignment7
   /*
   Aaron Allen
   The run time for the algorithm that I implemented 
-  would run in the same speed as normal selection sort.
+  would run in O(N^2) time, which is the same as the original selection sort.
 
   */
   public static void main(String[] args)
